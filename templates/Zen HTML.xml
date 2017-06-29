@@ -1,0 +1,7 @@
+<templateSet group="Zen HTML">
+  <template name="panel" value="&lt;div class=&quot;panel panel-default&quot;&gt;&#10;    &lt;div class=&quot;panel-heading&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;panel-body&quot;&gt;&lt;/div&gt;&#10;    &lt;div class=&quot;panel-footer&quot;&gt;&lt;/div&gt;&#10;&lt;/div&gt;" description="Create a bootstrap panel" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
