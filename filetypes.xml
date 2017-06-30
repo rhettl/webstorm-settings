@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".aliases" type="Bash" />
+      <mapping pattern=".functions" type="Bash" />
+      <mapping pattern=".bash_profile" type="Bash" />
+    </extensionMap>
+  </component>
+</application>
