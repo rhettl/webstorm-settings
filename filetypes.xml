@@ -5,6 +5,7 @@
       <mapping pattern=".functions" type="Bash" />
       <mapping pattern=".osx" type="Bash" />
       <mapping pattern=".bash_profile" type="Bash" />
+      <mapping ext="osx" type="Bash" />
       <mapping pattern=".gitconfig.local" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
