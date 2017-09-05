@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="creq" value="const $NAME$ = require('$NAME$');&#10;" description="Const Require" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="jsSuggestIndexName()" defaultValue="''" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
