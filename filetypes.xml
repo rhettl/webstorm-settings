@@ -4,7 +4,6 @@
       <mapping pattern="lib/_power-select.scss" type="PLAIN_TEXT" />
       <mapping pattern="imgRel" type="PLAIN_TEXT" />
       <mapping pattern=".ENV" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
