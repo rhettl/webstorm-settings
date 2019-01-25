@@ -1,14 +1,9 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="false" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="HTML_KEEP_BLANK_LINES" value="3" />
@@ -21,8 +16,17 @@
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
   </CssCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_KEEP_BLANK_LINES" value="3" />
+    <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="br,html" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,pre" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
