@@ -1,6 +1,12 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="f0d96dc7-5daa-4f24-a96b-718d762387f4" name="rhettl">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="rhettl" />
     <option name="AUTH_TYPE" value="BASIC" />
+    <option name="COPY_URL_GIST" value="true" />
   </component>
 </application>
