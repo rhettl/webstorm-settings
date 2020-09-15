@@ -13,5 +13,10 @@
         <option value="js-deep-completions" />
       </set>
     </option>
+    <option name="usedLanguages">
+      <set>
+        <option value="javascript" />
+      </set>
+    </option>
   </component>
 </application>
