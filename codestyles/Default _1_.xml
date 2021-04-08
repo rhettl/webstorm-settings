@@ -6,11 +6,6 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <option name="HTML_KEEP_BLANK_LINES" value="3" />
-  <option name="HTML_ALIGN_TEXT" value="true" />
-  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-  <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="br,html" />
-  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,pre" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
@@ -40,12 +35,6 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="GraphQL">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
