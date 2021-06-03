@@ -621,18 +621,16 @@
         <entry key="*.markdown">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.intellij.plugins.markdown" />
-              <option name="myPluginName" value="Markdown" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
+              <option name="myPluginName" value="Markdown Navigator Enhanced" />
             </plugin>
           </value>
         </entry>
         <entry key="*.md">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.intellij.plugins.markdown" />
-              <option name="myPluginName" value="Markdown" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
+              <option name="myPluginName" value="Markdown Navigator Enhanced" />
             </plugin>
           </value>
         </entry>
@@ -651,6 +649,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mkd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
+              <option name="myPluginName" value="Markdown Navigator Enhanced" />
             </plugin>
           </value>
         </entry>
@@ -1293,6 +1299,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".template-lintrc.js">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".yarnrc">
           <value>
             <plugin>
@@ -1429,6 +1444,16 @@
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="EMBER_SERVE_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Ember Serve" pluginName="Ember.js" pluginId="com.emberjs" />
+                    </value>
+                  </entry>
+                  <entry key="EMBER_TEST_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Ember Test" pluginName="Ember.js" pluginId="com.emberjs" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
