@@ -19,6 +19,7 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.less</mask>
+    <mask>*.graphql</mask>
     <mask>*.js</mask>
   </component>
 </application>
