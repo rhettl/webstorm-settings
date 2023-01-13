@@ -1,15 +1,13 @@
 <application>
   <component name="GithubAccounts">
-    <account id="f0d96dc7-5daa-4f24-a96b-718d762387f4" name="rhettl">
+    <account name="rhettl" id="05911b93-24fd-4ffc-9de5-1ad97dff92bc">
       <server host="github.com" />
     </account>
-    <account id="296068c3-b786-49ea-836f-b87220e8cec8" name="rhett">
+    <account name="rhett" id="296068c3-b786-49ea-836f-b87220e8cec8">
       <server host="github.oit.uci.edu" />
     </account>
   </component>
   <component name="GithubSettings">
-    <option name="LOGIN" value="rhettl" />
-    <option name="AUTH_TYPE" value="BASIC" />
     <option name="COPY_URL_GIST" value="true" />
   </component>
 </application>
