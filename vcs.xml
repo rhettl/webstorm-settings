@@ -46,9 +46,17 @@
           <option name="url" value="git@github.com:patrickjquinn/P-Brain.ai.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:SpellingDystance/SpellingDystance.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SpellingDystance/SpellingDystance.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
