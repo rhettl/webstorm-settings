@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="env" type="AUTO_DETECTED" />
       <mapping pattern="webserve" type="ECMAScript 6" />
       <mapping ext="swig" type="HTML" />
       <mapping pattern=".ember-cli" type="JSON" />
