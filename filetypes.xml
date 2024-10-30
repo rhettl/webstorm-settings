@@ -29,6 +29,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="swig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
     </extensionMap>
   </component>
 </application>
