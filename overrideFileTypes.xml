@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Projects/cloudformation-test/.cloudformation/node-ec2.yaml" value="AWSCloudFormation (YAML)" />
     <file url="file://$USER_HOME$/Projects/mat-interviews-react/.env.development" value="AUTO_DETECTED" />
   </component>
 </application>
